@@ -14,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/kickinbahk/npm-kickinbahk/issues"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/kickinbahk/npm-kickinbahk"
 }
